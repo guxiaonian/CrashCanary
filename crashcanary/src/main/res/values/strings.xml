@@ -1,0 +1,8 @@
+<resources>
+    <string name="crash_canary_display_activity_label">Crashes</string>
+    <string name="crash_canary_title">Crash in %s</string>
+    <string name="crash_canary_message">Are you sure you want to delete all Crashes</string>
+    <string name="crash_canary_delete_all">Delete all</string>
+    <string name="crash_canary_no">取消</string>
+    <string name="crash_canary_yes">确定</string>
+</resources>

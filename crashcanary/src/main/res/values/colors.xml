@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="crash_canary_error">#FFCC0000</color>
+    <color name="crash_canary_debug">#FFFFFF00</color>
+    <color name="crash_canary_warn">#FF0066CC</color>
+</resources>
