@@ -1,6 +1,6 @@
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
-version = "1.0.1"
+version = "1.1.0"
 apply plugin: 'com.android.library'
 
 android {
@@ -10,8 +10,8 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0"
+        versionCode 110
+        versionName "1.1.0"
 
         consumerProguardFiles 'consumer-rules.pro'
     }
