@@ -2,7 +2,7 @@
 
 ## CrashCanary
 
-**`Android`Log日志打印输出**
+**`Android`Crash日志打印输出**
 
 [![Download](https://api.bintray.com/packages/guxiaonian/crashcanary/crashcanary/images/download.svg) ](https://bintray.com/guxiaonian/crashcanary/crashcanary/_latestVersion)
 [![GitHub issues](https://img.shields.io/github/issues/guxiaonian/CrashCanary.svg)](https://github.com/guxiaonian/CrashCanary/issues)
@@ -15,8 +15,8 @@
 
 # 效果展示
 
-![crash2_logo](./img/img1.png)
-![crash2_logo](./img/img2.png)
+![crash2_logo](./img/img1.png)![crash2_logo](./img/img2.png)
+
 
 # 依赖
 
